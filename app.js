@@ -17,7 +17,7 @@ function LunchCheckController($scope){
             $scope.any="Enjoy!"
         }
         if(numbers>3){
-            $scope.any="Too much"
+            $scope.any="Too much!"
         }
 
     }
